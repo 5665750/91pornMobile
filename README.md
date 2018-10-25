@@ -1,10 +1,8 @@
-## 撸多了换换口味
-
-撸多了换换口味，<a href="https://github.com/yhf7952/mmPic" target="_blank">11w+随机妹子图一次看个够</a>
-
 ## 91pornMobile
-
 91Porn手机版，完全无广告，无多余信息，突破游客每天只能看10次的限制。
+
+## 同类推荐
+[DMM-AV短视频解析](https://github.com/yhf7952/DmmVideoPreview)
 
 ## 原理简介
 
@@ -44,7 +42,13 @@
 
 ## 关注我
 
-<ul>
-<li>博客：[岩兔站](https://yantuz.cn "岩兔站-关注互联网折腾服务器分享码农的日常")</li>
-<li>微博：https://weibo.com/yztop</li>
-</ul>
+* 博客：[岩兔站](https://yantuz.cn "岩兔站-关注互联网折腾服务器分享码农的日常")
+* 微博：[新浪微博](https://weibo.com/yztop "岩兔站")
+
+## 觉得好用！打赏楼主推出更好的作品
+
+为了更好的用户体验，网站**无广告**！！但是服务器域名都是要花钱的，如果你觉得程序好用，欢迎打赏！
+
+|支付宝|微信|
+|---|---
+|![](https://ws4.sinaimg.cn/large/007452UMly1fqa26f6fdaj308c08caab.jpg)|![](https://ws1.sinaimg.cn/large/007452UMly1fqa1vf6njtj308c08c0t2.jpg)
